@@ -1,0 +1,15 @@
+{
+  "name": "created-ip",
+  "version": "1.0.0",
+  "description": "organize domains by date of creation within a host",
+  "main": "index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "engines" : { "node" : "^8.11.2" }
+}
