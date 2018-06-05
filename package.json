@@ -1,5 +1,5 @@
 {
-  "name": "created-ip",
+  "name": "hacker-reverse-ip",
   "version": "1.0.0",
   "description": "organize domains by date of creation within a host",
   "main": "index.js",
@@ -10,6 +10,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
-  "engines" : { "node" : "^8.11.2" }
+  "dependencies": {}
 }
