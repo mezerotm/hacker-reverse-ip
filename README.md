@@ -40,10 +40,16 @@ if you scan the same <ip-address> at the same range each time you will get the s
 
 - [max] - where to end the scan range
 ```
-  npm start <ip-address> <min> <max>
+  # npm start <ip-address> <min> <max>
   npm start 127.0.0.1 0 10
   npm start 23.227.38.32 0 50
   npm start www.google.com 0 5
+```
+
+[download release here](https://github.com/mezerotm/hacker-reverse-ip/releases)
+```
+# Windows
+ ./hacker-reverse-ip.exe <ip-address> <min> <max>
 ```
 
 ## Maintainers
